@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Drew!
 ---
 
-About me!
+Is that really what you need though.
