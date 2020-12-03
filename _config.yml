@@ -1,0 +1,35 @@
+title: "drew raines"
+email: me@draines.com
+description: >- # this means to ignore newlines until "baseurl:"
+  internet bits
+baseurl: "/"
+url: "https://draines.com"
+twitter_username: drewr
+github_username:  drewr
+foo: this was a test
+permalink: /:title:output_ext
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - "pubkey.asc.txt"
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
+sass:
+  sass_dir: _sass
