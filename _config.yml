@@ -27,7 +27,7 @@ exclude:
 
 defaults:
   - scope:
-      path: "img"
+      path: "assets/img"
     values:
       image: true
 
