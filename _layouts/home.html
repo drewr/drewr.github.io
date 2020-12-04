@@ -23,17 +23,23 @@ layout: default
     {%- endif -%}
     <div class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <table>
       {%- for post in posts -%}
-      <p>
-        <span class="post-meta">{{ post.date | date_to_string }}</span> |
+      <tr>
+        <td>
+          <span class="post-meta">{{ post.date | date_to_string }}</span>
+        </td>
+        <td>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
-        {%- endif -%}
-      </p>
+          {%- endif -%}
+        </td>
+      </tr>
       {%- endfor -%}
+      <table>
     </div>
 
     {% if site.paginate %}
