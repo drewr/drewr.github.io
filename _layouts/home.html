@@ -27,7 +27,7 @@ layout: default
       {%- for post in posts -%}
       <tr>
         <td>
-          <span class="post-meta">{{ post.date | date_to_string }}</span>
+          <span class="post-meta">{{ post.date | date: "%b %Y" }}</span>
         </td>
         <td>
           <a class="post-link" href="{{ post.url | relative_url }}">
