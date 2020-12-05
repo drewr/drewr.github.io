@@ -10,9 +10,11 @@ I've worked in a few non-profits, including founding a Christian church in the U
 
 Topics of interest:
 
-* languages (human and computer),
+* leadership,
+* investing,
 * ecclesiology (what is a church?),
 * epistemology (what is truth?),
+* languages (human and computer),
 * communities,
 * transportation,
 * aviation,
