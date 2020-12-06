@@ -18,7 +18,8 @@ Random topics of interest:
 * epistemology (what is truth?),
 * languages (human and computer),
 * communities,
-* transportation (`#bancars`),
+* fitness,
+* transportation 🚲,
 * aviation,
 * travel
 
