@@ -6,7 +6,7 @@ tags: website
 
 Dear Internet passerby,
 
-I'm a 40-something software developer, based in the US.  I work as engineering director at a fairly successful midsize tech company.  I have a background equal parts development, equal part operations.  I've worked in various organizations, from academia to web startups to large, private SaaS.  I've also worked in a few non-profits, including founding a Christian church in the United States.
+I'm a 40-something software developer, based in the US.  I work as engineering director at a fairly successful midsize tech company.  I have a background equal parts development and operations.  I've worked in various organizations, from academia to web startups to large, private SaaS.  I've also worked in a few non-profits, including founding a Christian church in the United States.
 
 Random topics of interest you might find on this website:
 
