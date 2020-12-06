@@ -30,5 +30,6 @@ Love,
 
 [Drew](mailto:website@draines.com?subject=I%20read%20your%20web%20site)
 
+Here's a picture of my dog:
 
-![](https://storage.googleapis.com/drewr-img/dottie-rug.png)
+![](https://storage.googleapis.com/drewr-img/dottie-rug-500.png)
