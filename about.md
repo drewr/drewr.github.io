@@ -26,7 +26,7 @@ I'm also a father of teenagers, ama.
 
 Love,
 
-[Drew](mailto:website@draines.com?subject=I%20read%20your%20web%20site)
+[Drew](mailto:website@draines.com?subject=I%20read%20your%20bio%21)
 
 Here's a picture of my dog:
 
