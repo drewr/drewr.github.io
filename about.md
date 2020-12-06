@@ -32,4 +32,4 @@ Love,
 
 Here's a picture of my dog:
 
-![](https://storage.googleapis.com/drewr-img/dottie-rug-200.png)
+![](https://storage.googleapis.com/drewr-img/dottie-rug-300.png)
