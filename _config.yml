@@ -23,7 +23,6 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - "pubkey.asc.txt"
 
 defaults:
   - scope:
