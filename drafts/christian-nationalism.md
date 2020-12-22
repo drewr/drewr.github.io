@@ -1,5 +1,5 @@
 ---
-
+title: American Christianity
 ---
 
 * God is so weak he depends on who is president.  If the right candidate doesn't win then Christians have to take matters into their own hands.
