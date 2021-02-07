@@ -1,0 +1,5 @@
+{:title "About"
+ :template "static.html"
+}
+---
+About me!

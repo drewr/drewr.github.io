@@ -1,0 +1,8 @@
+{:title "Hello, world!"
+# :template "simple/main.html"
+ :template "base.html"
+ :author "me@myself.net"}
+---
+# New page!
+
+Possible site generator?
