@@ -7,7 +7,7 @@ url: "https://draines.com"
 twitter_username: drewr
 github_username:  drewr
 foo: this was a test
-permalink: /:title/
+permalink: none
 
 plugins:
   - jekyll-feed

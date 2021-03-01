@@ -1,3 +1,7 @@
+---
+title: How To Fight Racism: Chapters 5 & 6
+categories: notes
+---
 # Intro
 
 We've been navigating this framework that Tisby created called ARC. It
