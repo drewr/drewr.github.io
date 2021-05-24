@@ -1,3 +1,15 @@
+This key is also available on the following keyservers:
+
+http://keys.gnupg.net/pks/lookup?search=0x91174942&fingerprint=on&hash=on&op=vindex
+https://pgp.mit.edu/pks/lookup?search=0x91174942&op=index
+
+To sign:
+
+gpg --keyserver keys.gnupg.net --recv-keys 91174942
+gpg --sign-key 91174942
+gpg --keyserver keys.gnupg.net --send-key 91174942
+
+
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEYKaGfxYJKwYBBAHaRw8BAQdAtW4GvQ4pbSaDCj1Ecr+QegBi5qUeZ42cFz/8
