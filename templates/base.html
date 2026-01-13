@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ get_url(path='style.css') | safe }}">
+    <link rel="stylesheet" href="{{ get_url(path='github-theme-2.css') | safe }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ get_url(path='favicon/apple-touch-icon.png') | safe }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ get_url(path='favicon/favicon-32x32.png') | safe }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ get_url(path='favicon/favicon-16x16.png') | safe }}">
+    <link rel="manifest" href="{{ get_url(path='favicon/site.webmanifest') | safe }}">
+    <link rel="mask-icon" href="{{ get_url(path='favicon/safari-pinned-tab.svg') | safe }}" color="#9f9ec2">
+    <link rel="shortcut icon" href="{{ get_url(path='favicon/favicon.ico') | safe }}">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-config" content="{{ get_url(path='favicon/browserconfig.xml') | safe }}">
+    <meta name="theme-color" content="#ffffff">
+  </head>
+
+  <body>
+    <div class="container">
+    <main class="page-content" aria-label="Content">
+    {% block header %} {% endblock header %}
+      <div class="wrapper">
+      {% block content %} {% endblock content %}
+      </div>
+    <hr />
+    {% block footer %} {% endblock footer %}
+    </main>
+    </div>
+  </body>
+</html>

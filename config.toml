@@ -1,0 +1,18 @@
+title = "Drew Raines's Website"
+base_url = "https://draines.com"
+compile_sass = true
+build_search_index = true
+author = "Drew Raines"
+generate_feeds = true
+
+[markdown]
+highlight_code = false
+
+[extra]
+# Put all your custom variables here
+
+[languages.es]
+generate_feeds = true
+
+[languages.es.translations]
+summary = "Blog de Andrés"

@@ -1,7 +1,8 @@
----
-title: "How To Fight Racism: Chapters 5 & 6"
-categories: notes
----
++++
+title = "How To Fight Racism: Chapters 5 & 6"
+date = 2021-03-01
++++
+
 ## Intro
 
 We've been navigating this framework that Tisby created called ARC. It started with AWARENESS, understanding the concept of race and the history of the Black experience in America, as well as a little about the Bible's view on race,
