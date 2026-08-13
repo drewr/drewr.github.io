@@ -6,7 +6,6 @@ author = "Drew Raines"
 generate_feeds = true
 
 [markdown]
-highlight_code = false
 
 [extra]
 # Put all your custom variables here
