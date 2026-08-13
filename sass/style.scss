@@ -10,6 +10,11 @@
   box-sizing: border-box;
 }
 
+.title-link {
+  display: flex;
+  text-decoration: none;
+}
+
 .title {
   --s: clamp(3px, 1.05vw, 24px);  /* pixel size, scales with viewport width */
   display: flex;
