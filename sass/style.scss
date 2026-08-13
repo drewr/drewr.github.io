@@ -1,6 +1,7 @@
-
-body {
-}
-
-p {
+/* Homepage full-viewport image */
+.home-hero {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background: url('/window-runway-night.jpg') center/cover no-repeat;
 }

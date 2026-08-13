@@ -1,8 +1,5 @@
 +++
 title = "draines"
-sort_by = "date"
-template = "blog.html"
+template = "home.html"
 page_template = "blog/page.html"
 +++
-
-
