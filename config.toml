@@ -5,7 +5,8 @@ build_search_index = true
 author = "Drew Raines"
 generate_feeds = true
 
-[markdown]
+[markdown.highlighting]
+theme = "dracula"
 
 [extra]
 # Put all your custom variables here
