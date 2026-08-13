@@ -1,4 +1,5 @@
 /to-s3/
 /public/
 .sass-cache
+.DS_Store
 
